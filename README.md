@@ -34,6 +34,7 @@ You can install these packages using pip:
 
 ```bash
 pip install numpy pandas scipy matplotlib seaborn scikit-learn pytorch torch-geometric
+```
 
 ## Contact
 
